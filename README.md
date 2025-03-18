@@ -6,4 +6,4 @@ Mod was created by Theus (Eldar Khalilov)
 
 
 For developers:
-To assemble the mod you should look on .csproj file: change the "OutputPath" to your game-directory
+To assemble the mod: expand the project on your IDE, look on .csproj file: change the "OutputPath" to your game-directory
