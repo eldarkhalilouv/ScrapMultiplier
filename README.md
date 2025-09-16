@@ -1,6 +1,6 @@
 # The example of "lethal company" mode, that multiple scrap cost
 
-Mod status: still in development
+Mod status: deleted
 
 Mod was created by Theus (Eldar Khalilov)
 
